@@ -1,3 +1,3 @@
-# Simon Game
+# this the my project 
 
-this is my project no 3.
+This the my simon project that i have created in my vacation.
